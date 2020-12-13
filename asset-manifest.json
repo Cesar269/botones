@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/botones/static/css/main.a5cc8a63.chunk.css",
+    "main.js": "/botones/static/js/main.7c83ff2c.chunk.js",
+    "main.js.map": "/botones/static/js/main.7c83ff2c.chunk.js.map",
+    "runtime-main.js": "/botones/static/js/runtime-main.f7a679ba.js",
+    "runtime-main.js.map": "/botones/static/js/runtime-main.f7a679ba.js.map",
+    "static/js/2.16153cd4.chunk.js": "/botones/static/js/2.16153cd4.chunk.js",
+    "static/js/2.16153cd4.chunk.js.map": "/botones/static/js/2.16153cd4.chunk.js.map",
+    "index.html": "/botones/index.html",
+    "static/css/main.a5cc8a63.chunk.css.map": "/botones/static/css/main.a5cc8a63.chunk.css.map",
+    "static/js/2.16153cd4.chunk.js.LICENSE.txt": "/botones/static/js/2.16153cd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a679ba.js",
+    "static/js/2.16153cd4.chunk.js",
+    "static/css/main.a5cc8a63.chunk.css",
+    "static/js/main.7c83ff2c.chunk.js"
+  ]
+}
