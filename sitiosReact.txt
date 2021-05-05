@@ -1,0 +1,15 @@
+Canal de Youtobe de Jonmircha
+https://www.youtube.com/user/bextlancom
+descripción: En este canal no solo se encuentra una lista de reproducción
+de un curso que ha ido actualizando de react, también se encuentran videos completos 
+sobre JS y diseños responsive. 
+
+Curso practico de introducción a react por Fazt
+https://www.youtube.com/watch?v=zIY87vU33aA
+descripción: Es un curso introductorio que sirve como una perspectiva para entender
+como funciona react y su uso. 
+
+Curso de React JS por Victor Robles
+https://www.udemy.com/course/react-js-curso-de-introduccion-desde-cero-y-primeros-pasos/learn/lecture/12670864?start=0#content
+descripción: Es un curso que comunmente esta gratuito por cupones y tiene una calificación 
+de 4,5 estrellas. El contenido es bueno y se enseña parte del azucar sintactica JSX. 
